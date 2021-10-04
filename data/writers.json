@@ -6,7 +6,8 @@
         "salary": 50000,
         "img": "https://user-images.githubusercontent.com/66868462/134783161-7e69c742-e18e-458e-b584-446f69b4f37e.jpg",
         "content_published": 25,
-        "phone": "01700000000"
+        "phone": "01700000000",
+        "quote": "We are serving for years. We provide quality techings."
     },
     {
         "name": "Richard Gasquet",
@@ -15,7 +16,8 @@
         "salary": 45000,
         "img": "https://user-images.githubusercontent.com/66868462/134783166-4f20bdd2-cc94-4ba1-9ac6-8589cf2a6438.jpg",
         "content_published": 19,
-        "phone": "01700000001"
+        "phone": "01700000001",
+        "quote": "You are welcome to our community. We together can do magic."
     },
     {
         "name": "Tom Harty",
@@ -24,7 +26,8 @@
         "salary": 60000,
         "img": "https://user-images.githubusercontent.com/66868462/134783167-99a561ea-4e02-4aa8-91fd-c008fa5dc9f1.jpg",
         "content_published": 35,
-        "phone": "01700000002"
+        "phone": "01700000002",
+        "quote": "We will be pleased to have you."
     },
     {
         "name": "Jackson",
@@ -33,7 +36,8 @@
         "salary": 25000,
         "img": "https://user-images.githubusercontent.com/66868462/134783169-f7ecedd6-3d62-487a-9afa-ac8687578d9e.jpg",
         "content_published": 12,
-        "phone": "01700000003"
+        "phone": "01700000003",
+        "quote": "We are building such a community where you can do whatever you want!"
     },
     {
         "name": "Martin Luther",
@@ -42,7 +46,8 @@
         "salary": 55000,
         "img": "https://user-images.githubusercontent.com/66868462/134783170-b3b65ced-d41f-4681-a7d4-9f79e2426438.jpg",
         "content_published": 32,
-        "phone": "01700000004"
+        "phone": "01700000004",
+        "quote": "We are serving for years. We provide quality techings."
     },
     {
         "name": "Rakib Hasan",
@@ -51,7 +56,8 @@
         "salary": 50000,
         "img": "https://user-images.githubusercontent.com/66868462/134783171-d8a64615-b0a1-4a25-8513-ab6499407e5a.jpg",
         "content_published": 29,
-        "phone": "01700000005"
+        "phone": "01700000005",
+        "quote": "We are serving for years. We provide quality techings."
     },
     {
         "name": "Mehedi Hasan",
@@ -60,7 +66,8 @@
         "salary": 51000,
         "img": "https://user-images.githubusercontent.com/66868462/134783172-59bdc7a1-e333-41f8-a899-ef5d5298476e.jpg",
         "content_published": 27,
-        "phone": "01700000006"
+        "phone": "01700000006",
+        "quote": "We are serving for years. We provide quality techings."
     },
     {
         "name": "Kawsar Ahmed",
@@ -69,7 +76,8 @@
         "salary": 46000,
         "img": "https://user-images.githubusercontent.com/66868462/134783173-3243dd66-092a-4080-b72c-88a73f2e1e01.jpg",
         "content_published": 23,
-        "phone": "01700000007"
+        "phone": "01700000007",
+        "quote": "We are serving for years. We provide quality techings."
     },
     {
         "name": "Arif Hossain",
@@ -78,7 +86,8 @@
         "salary": 20000,
         "img": "https://user-images.githubusercontent.com/66868462/134783174-c84c4622-68aa-432d-87dc-24cdb866639a.jpg",
         "content_published": 17,
-        "phone": "01700000008"
+        "phone": "01700000008",
+        "quote": "We are serving for years. We provide quality techings."
     },
     {
         "name": "Michael Bloomberg",
@@ -87,7 +96,8 @@
         "salary": 22000,
         "img": "https://user-images.githubusercontent.com/66868462/134783167-99a561ea-4e02-4aa8-91fd-c008fa5dc9f1.jpg",
         "content_published": 13,
-        "phone": "01700000009"
+        "phone": "01700000009",
+        "quote": "We are serving for years. We provide quality techings."
     },
     {
         "name": "Killie Rodger",
@@ -96,7 +106,8 @@
         "salary": 18000,
         "img": "https://user-images.githubusercontent.com/66868462/134783177-ef4d89c8-8d5d-4079-b688-b7cf58cd6dbc.jpg",
         "content_published": 7,
-        "phone": "01700000011"
+        "phone": "01700000011",
+        "quote": "We are serving for years. We provide quality techings."
     },
     {
         "name": "Munna Tripathi",
@@ -105,6 +116,7 @@
         "salary": 41000,
         "img": "https://user-images.githubusercontent.com/66868462/134783178-68856358-dee3-46b0-a25a-da794a9d97ec.jpg",
         "content_published": 27,
-        "phone": "01700000012"
+        "phone": "01700000012",
+        "quote": "We are serving for years. We provide quality techings."
     }
 ]
