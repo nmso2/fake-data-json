@@ -4,62 +4,71 @@
         "cost": 999,
         "id": 2441139,
         "duration": "1 Year",
-        "img": "https://user-images.githubusercontent.com/66868462/135843570-5e2bc49d-7c02-4b9d-aaa9-5c3c4a6d86cc.jpg"
+        "img": "https://user-images.githubusercontent.com/66868462/135843570-5e2bc49d-7c02-4b9d-aaa9-5c3c4a6d86cc.jpg",
+        "rating": "5"
     },
     {
         "service": "Platinum",
         "cost": 899,
         "id": 2441140,
         "duration": "10 Months",
-        "img": "https://user-images.githubusercontent.com/66868462/135843581-b7e15a65-8569-4b21-a596-6533a4cc8506.jpg"
+        "img": "https://user-images.githubusercontent.com/66868462/135843581-b7e15a65-8569-4b21-a596-6533a4cc8506.jpg",
+        "rating": "4.5"
     },
     {
         "service": "Gold",
         "cost": 799,
         "id": 2441141,
         "duration": "8 Months",
-        "img": "https://user-images.githubusercontent.com/66868462/135843584-32d24297-8445-40a0-b82a-5223b36c2854.jpg"
+        "img": "https://user-images.githubusercontent.com/66868462/135843584-32d24297-8445-40a0-b82a-5223b36c2854.jpg",
+        "rating": "4"
     },
     {
         "service": "Silver",
         "cost": 699,
         "id": 2441142,
         "duration": "6 Months",
-        "img": "https://user-images.githubusercontent.com/66868462/135843586-d3f0c86d-3a84-4ed8-a59e-48cf2ebe30f0.jpg"
+        "img": "https://user-images.githubusercontent.com/66868462/135843586-d3f0c86d-3a84-4ed8-a59e-48cf2ebe30f0.jpg",
+        "rating": "5"
     },
     {
         "service": "Bronze",
         "cost": 599,
         "id": 2441143,
         "duration": "5 Months",
-        "img": "https://user-images.githubusercontent.com/66868462/135843588-29e7bab8-0b49-4119-8fcc-fb4a3b0187a7.jpg"
+        "img": "https://user-images.githubusercontent.com/66868462/135843588-29e7bab8-0b49-4119-8fcc-fb4a3b0187a7.jpg",
+        "rating": "3.5"
     },
     {
         "service": "Quick Course",
         "cost": 499,
         "id": 2441144,
         "duration": "4 Months",
-        "img": "https://user-images.githubusercontent.com/66868462/135843590-98d57ada-a6bb-44d3-af84-9b9696edc9f3.jpg"
+        "img": "https://user-images.githubusercontent.com/66868462/135843590-98d57ada-a6bb-44d3-af84-9b9696edc9f3.jpg",
+        "rating": "3"
     },
     {
         "service": "Basic",
         "cost": 399,
         "id": 2441145,
         "duration": "3 Months",
-        "img": "https://user-images.githubusercontent.com/66868462/135843593-aa44252d-98a2-4ff6-ab27-14bdf574a204.jpg"
+        "img": "https://user-images.githubusercontent.com/66868462/135843593-aa44252d-98a2-4ff6-ab27-14bdf574a204.jpg",
+        "rating": "4"
     },
     {
         "service": "Regular",
         "cost": 249,
         "id": 2441146,
         "duration": "2 Months",
-        "img": "https://user-images.githubusercontent.com/66868462/135843594-c719de42-b640-4b41-96ba-82b770e6b22d.jpg"
+        "img": "https://user-images.githubusercontent.com/66868462/135843594-c719de42-b640-4b41-96ba-82b770e6b22d.jpg",
+        "rating": "3"
     },
     {
         "service": "Free",
         "cost": 0,
         "id": 2441147,
         "duration": "1 Week",
-        "img": "https://user-images.githubusercontent.com/66868462/135843596-caae9b0b-514f-46e1-a918-5f50d466d5cf.jpg"
+        "img": "https://user-images.githubusercontent.com/66868462/135843596-caae9b0b-514f-46e1-a918-5f50d466d5cf.jpg",
+        "rating": "5"
     }
 ]
