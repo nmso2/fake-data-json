@@ -1,0 +1,38 @@
+[
+    {
+        "title": "7 Covid-19 deaths, 469 cases recorded in 24 hours",
+        "details": "Seven people died from Covid-19 in 24 hours till 8am today, said a press release issued by the Directorate",
+        "id": 1,
+        "img": "https://i.ibb.co/HqRDtwr/blog-1.jpg"
+    },
+    {
+        "title": "Dengue fever: 172 patients hospitalised in 24 hours",
+        "details": "At least 172 patients were hospitalised in 24 hours till 8:00 am today, according to the Directorate General of Health Services (DGHS).",
+        "id": 2,
+        "img": "https://i.ibb.co/hChd7Pg/blog-2.jpg"
+    },
+    {
+        "title": "'Crying Room' in Spain want to eliminate mental health stigma",
+        "details": "'Enter and cry,' one sign tells visitors. 'I too have anxiety,' glows another notice in pink.",
+        "id": 3,
+        "img": "https://i.ibb.co/N1ktCW3/blog-3.jpg"
+    },
+    {
+        "title": "DOWN WITH THE FLU",
+        "details": "With the country's temperature remaining abnormally high over the last two months, the number of patients suffering from different infectious diseases",
+        "id": 4,
+        "img": "https://i.ibb.co/7RF0bpv/blog-4.jpg"
+    },
+    {
+        "title": "201 hospitalised with dengue in a single day",
+        "details": "At least 201 dengue patients were hospitalised in the 24 hours preceding 8:00am today, including 61 cases from outside Dhaka, according to the Directorate General of Health Services (DGHS).",
+        "id": 5,
+        "img": "https://i.ibb.co/5LppBbN/blog-5.jpg"
+    },
+    {
+        "title": "WHO’s revised Essential Medicines Lists highlight diabetes and cancer meds",
+        "details": "World Health Organisation (WHO) recently updated its Model Lists of Essential Medicines and Essential Medicines for Children.",
+        "id": 6,
+        "img": "https://i.ibb.co/h19jsLH/blog-6.jpg"
+    }
+]
