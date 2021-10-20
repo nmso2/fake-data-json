@@ -8,6 +8,7 @@
         "content_published": 25,
         "phone": "01700000000",
         "quote": "We are serving for years. We provide quality techings.",
+        "speciality": "Gynecologist",
         "workday": "Sat-Mon"
     },
     {
@@ -19,6 +20,7 @@
         "content_published": 19,
         "phone": "01700000001",
         "quote": "You are welcome to our community. We together can do magic.",
+        "speciality": "Cardiologist",
         "workday": "Sun-Tue"
     },
     {
@@ -30,6 +32,7 @@
         "content_published": 35,
         "phone": "01700000002",
         "quote": "We will be pleased to have you.",
+        "speciality": "Cardiac Surgeon",
         "workday": "Wed-Fri"
     },
     {
@@ -41,6 +44,7 @@
         "content_published": 12,
         "phone": "01700000003",
         "quote": "We are building such a community where you can do whatever you want!",
+        "speciality": "Cardiologist",
         "workday": "Thu-Fri"
     },
     {
@@ -52,6 +56,7 @@
         "content_published": 32,
         "phone": "01700000004",
         "quote": "We are serving for years. We provide quality techings.",
+        "speciality": "Gynecologist",
         "workday": "Sat-Mon"
     },
     {
@@ -63,6 +68,7 @@
         "content_published": 29,
         "phone": "01700000005",
         "quote": "We are serving for years. We provide quality techings.",
+        "speciality": "Cardiac Surgeon",
         "workday": "Mon-tue"
     },
     {
@@ -74,6 +80,7 @@
         "content_published": 27,
         "phone": "01700000006",
         "quote": "We are serving for years. We provide quality techings.",
+        "speciality": "Neurologist",
         "workday": "Tue-Fri"
     },
     {
@@ -85,6 +92,7 @@
         "content_published": 23,
         "phone": "01700000007",
         "quote": "We are serving for years. We provide quality techings.",
+        "speciality": "Pediatrician",
         "workday": "Regular"
     },
     {
@@ -96,6 +104,7 @@
         "content_published": 17,
         "phone": "01700000008",
         "quote": "We are serving for years. We provide quality techings.",
+        "speciality": "Neurologist",
         "workday": "First Friday of Month"
     },
     {
@@ -107,6 +116,7 @@
         "content_published": 13,
         "phone": "01700000009",
         "quote": "We are serving for years. We provide quality techings.",
+        "speciality": "Pediatrician",
         "workday": "Mon"
     },
     {
@@ -118,6 +128,7 @@
         "content_published": 7,
         "phone": "01700000011",
         "quote": "We are serving for years. We provide quality techings.",
+        "speciality": "Eye Specialist",
         "workday": "Fri"
     },
     {
@@ -129,6 +140,7 @@
         "content_published": 27,
         "phone": "01700000012",
         "quote": "We are serving for years. We provide quality techings.",
+        "speciality": "Eye Specialist",
         "workday": "Wed"
     }
 ]
