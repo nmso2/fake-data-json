@@ -12,8 +12,7 @@
   },
   "job": {
     "company": "Ehsan Software Ltd.",
-    "designation": "React.Js Developer",
-    "salary": 30000
+    "designation": "React.Js Developer"
   },
   "skills": [
     ["React JS", 85, "", null],
