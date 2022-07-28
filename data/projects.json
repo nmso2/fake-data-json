@@ -1,6 +1,32 @@
 [
   {
     "id": 1,
+    "screen1": "https://i.ibb.co/THZRKMC/Screenshot-from-2022-07-28-14-27-39.png",
+    "screen2": "https://i.ibb.co/dGRN0Hj/Screenshot-from-2022-07-28-14-29-03.png",
+    "screen3": "https://i.ibb.co/VV6gQ9h/Screenshot-from-2022-07-28-14-29-46.png",
+    "name": "Payra",
+    "type": "E-Commerce",
+    "short_des": "Material UI and Next.Js is used to complete this website. JWT is to authenticate user. Express.Js and MongoDB is used as backend technologies.",
+    "technology": "Next.Js, Material UI, GraphQL, Express.Js, MongoDB.",
+    "live": "https://ehsanmarketing.com/",
+    "server": null,
+    "client": null
+  },
+    {
+    "id": 2,
+    "screen1": "https://i.ibb.co/NmtYTyx/Screenshot-from-2022-07-28-14-15-21.png",
+    "screen2": "https://i.ibb.co/W2Wc1LB/Screenshot-from-2022-07-28-14-16-33.png",
+    "screen3": "https://i.ibb.co/Wf53NFN/Screenshot-from-2022-07-28-14-15-43.png",
+    "name": "Ehsan Marketing",
+    "type": "E-Commerce",
+    "short_des": "Material UI and Next.Js is used to complete this website. JWT is to authenticate user. Django and PostgreSQL is used as backend technologies.",
+    "technology": "Next.Js, Material UI, GraphQL, Python, Django, PostgreSQL, REST API.",
+    "live": "https://payra-ecommerce.vercel.app/",
+    "server": null,
+    "client": null
+  },
+  {
+    "id": 3,
     "screen1": "https://i.ibb.co/nBv6ZrZ/project-1-1.png",
     "screen2": "https://i.ibb.co/qF2dYsk/project-1-2.png",
     "screen3": "https://i.ibb.co/kGnXXfn/project-1-3.png",
@@ -13,7 +39,7 @@
     "client": "https://github.com/nmso2/as-sunnah-pathagar-client"
   },
   {
-    "id": 2,
+    "id": 4,
     "screen1": "https://i.ibb.co/7ppycYp/project-2-1.png",
     "screen2": "https://i.ibb.co/hMmmb9t/project-2-2.png",
     "screen3": "https://i.ibb.co/jVSQSMq/project-2-3.png",
@@ -26,7 +52,7 @@
     "client": "https://github.com/nmso2/sunglass-collection-client"
   },
   {
-    "id": 3,
+    "id": 5,
     "screen1": "https://i.ibb.co/SJSjXr5/project-3-1.png",
     "screen2": "https://i.ibb.co/9YRWjTx/project-3-2.png",
     "screen3": "https://i.ibb.co/8ccgkw3/project-3-3.png",
@@ -38,7 +64,7 @@
     "client": "https://github.com/nmso2/open-door-clinic-react-tailwind"
   },
   {
-    "id": 4,
+    "id": 6,
     "screen1": "https://i.ibb.co/Ny6gGwv/project-4-2.png",
     "screen2": "https://i.ibb.co/gW14MhH/project-4-1.png",
     "screen3": "https://i.ibb.co/swHmYBv/project-4-3.png",
@@ -49,29 +75,5 @@
     "live": "https://birds-eye-tour-planner.web.app/",
     "server": "https://github.com/nmso2/-Birds_eye_tour_planner_server",
     "client": "https://github.com/nmso2/Birds_eye_tour_planner_client"
-  },
-  {
-    "id": 5,
-    "screen1": "https://i.ibb.co/3ySVHCW/project-5-1.png",
-    "screen2": "https://i.ibb.co/FXh97sF/project-5-2.png",
-    "screen3": "https://i.ibb.co/7bVXqfm/project-5-3.png",
-    "name": "Content Writers",
-    "type": "Content Writing Services",
-    "short_des": "This website is completed with React Bootstrap and React js. React Router is used here. Used API to load fake data. Completely user friendly.",
-    "technology": "React Js, React Bootstrap.",
-    "live": "https://write-content-react.netlify.app/",
-    "client": "https://github.com/nmso2/react-content-writer"
-  },
-  {
-    "id": 6,
-    "screen1": "https://i.ibb.co/Srz5tdY/project-6-1.png",
-    "screen2": "https://i.ibb.co/vwC6MQH/project-6-2.png",
-    "screen3": "https://i.ibb.co/WKK9jvn/project-6-3.png",
-    "name": "Calligraphy",
-    "type": "Training",
-    "short_des": "React Bootstrap and React js are used to finish this website. React Router is utilized in this instance. API was used to load fake data. The interface is really user-friendly.",
-    "technology": "React Js, React Bootstrap.",
-    "live": "https://react-calligraphy.netlify.app/",
-    "client": "https://github.com/nmso2/react-calligraphy"
   }
 ]
