@@ -1,17 +1,5 @@
 [
-  {
-    "id": 1,
-    "screen1": "https://i.ibb.co/THZRKMC/Screenshot-from-2022-07-28-14-27-39.png",
-    "screen2": "https://i.ibb.co/dGRN0Hj/Screenshot-from-2022-07-28-14-29-03.png",
-    "screen3": "https://i.ibb.co/VV6gQ9h/Screenshot-from-2022-07-28-14-29-46.png",
-    "name": "Payra",
-    "type": "E-Commerce",
-    "short_des": "Material UI and Next.Js is used to complete this website. JWT is to authenticate user. Express.Js and MongoDB is used as backend technologies.",
-    "technology": "Next.Js, Material UI, GraphQL, Express.Js, MongoDB.",
-    "live": "https://ehsanmarketing.com/",
-    "server": null,
-    "client": null
-  },
+
     {
     "id": 2,
     "screen1": "https://i.ibb.co/NmtYTyx/Screenshot-from-2022-07-28-14-15-21.png",
@@ -21,6 +9,19 @@
     "type": "E-Commerce",
     "short_des": "Material UI and Next.Js is used to complete this website. JWT is to authenticate user. Django and PostgreSQL is used as backend technologies.",
     "technology": "Next.Js, Material UI, GraphQL, Python, Django, PostgreSQL, REST API.",
+    "live": "https://ehsanmarketing.com/",
+    "server": null,
+    "client": null
+  },
+    {
+    "id": 1,
+    "screen1": "https://i.ibb.co/THZRKMC/Screenshot-from-2022-07-28-14-27-39.png",
+    "screen2": "https://i.ibb.co/dGRN0Hj/Screenshot-from-2022-07-28-14-29-03.png",
+    "screen3": "https://i.ibb.co/VV6gQ9h/Screenshot-from-2022-07-28-14-29-46.png",
+    "name": "Payra",
+    "type": "E-Commerce",
+    "short_des": "Material UI and Next.Js is used to complete this website. JWT is to authenticate user. Express.Js and MongoDB is used as backend technologies.",
+    "technology": "Next.Js, Material UI, GraphQL, Express.Js, MongoDB.",
     "live": "https://payra-ecommerce.vercel.app/",
     "server": null,
     "client": null
