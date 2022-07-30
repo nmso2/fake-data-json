@@ -12,7 +12,9 @@
   },
   "job": {
     "company": "Ehsan Software Ltd.",
-    "designation": "React.Js Developer"
+    "designation": "React.Js Developer",
+    "website":"https://ehsansoftware.com/",
+    "location":"Bogura Sadar"
   },
   "skills": [
     ["React JS", 85, "", null],
