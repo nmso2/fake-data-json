@@ -1,0 +1,37 @@
+[
+  {
+    "fname": "subho",
+    "label": "subho",
+    "age": 25,
+    "gender": "male",
+    "id": 1
+  },
+  {
+    "fname": "raju",
+    "label": "raju",
+    "age": 35,
+    "gender": "male",
+    "id": 2
+  },
+  {
+    "fname": "gadia",
+    "label": "gadia",
+    "age": 25,
+    "gender": "male",
+    "id": 3
+  },
+  {
+    "fname": "kadia",
+    "label": "kadia",
+    "age": 55,
+    "gender": "female",
+    "id": 4
+  },
+  {
+    "fname": "sadia",
+    "label": "sadia",
+    "age": 25,
+    "gender": "female",
+    "id": 5
+  }
+]
