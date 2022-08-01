@@ -1,0 +1,44 @@
+[
+  {
+    "name": "subho",
+    "age": 25,
+    "gender": "male",
+    "id": 1
+  },
+  {
+    "name": "raju",
+    "age": 35,
+    "gender": "male",
+    "id": 2
+  },
+  {
+    "name": "sadia",
+    "age": 25,
+    "gender": "female",
+    "id": 3
+  },
+  {
+    "name": "kadia",
+    "age": 55,
+    "gender": "female",
+    "id": 4
+  },
+  {
+    "name": "gadia",
+    "age": 25,
+    "gender": "male",
+    "id": 5
+  },
+  {
+    "name": "noyon",
+    "age": 20,
+    "gender": "male",
+    "id": 6
+  },
+  {
+    "name": "ovi",
+    "age": 23,
+    "gender": "male",
+    "id": 7
+  }
+]
