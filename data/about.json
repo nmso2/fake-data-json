@@ -1,7 +1,7 @@
 {
   "name": "Md. Nagib Mahfuz Subho",
   "address": {
-    "present": "Bogura Sadar",
+    "present": "Dhaka",
     "permanent": "Kushtia"
   },
   "about_me": {
@@ -11,10 +11,10 @@
     "details3": "I miss traveling and Rubel Tea Stalls' 'LAL CHA' after I started working. Life is all about giving up something!"
   },
   "job": {
-    "company": "Ehsan Software Ltd.",
-    "designation": "React.Js Developer",
-    "website":"https://ehsansoftware.com/",
-    "location":"Bogura Sadar"
+    "company": "Dynamic Megasoft Limited",
+    "designation": "Software Developer",
+    "website":"https://dynamicsoft.us/",
+    "location":"Mohammadpur, Dhaka"
   },
   "skills": [
     ["React JS", 85, "", null],
