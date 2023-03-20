@@ -56,7 +56,7 @@
     "github": "https://github.com/nmsubho",
     "resume": "https://drive.google.com/uc?export=download&id=1bSePoG7r_JwIVE0PVD3W1KlLFDdhXJ5U"
   },
-  "blog": [
+  "blogs": [
     {
       "id": 1,
       "title": "Bind, Call & Apply",
