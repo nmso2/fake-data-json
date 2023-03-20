@@ -70,4 +70,83 @@
       "answer": ""
     }
   ]
+  "projects": [
+    {
+    "id": 2,
+    "screen1": "https://i.ibb.co/NmtYTyx/Screenshot-from-2022-07-28-14-15-21.png",
+    "screen2": "https://i.ibb.co/W2Wc1LB/Screenshot-from-2022-07-28-14-16-33.png",
+    "screen3": "https://i.ibb.co/Wf53NFN/Screenshot-from-2022-07-28-14-15-43.png",
+    "name": "Ehsan Marketing",
+    "type": "E-Commerce",
+    "short_des": "Material UI and Next.Js is used to complete this website. JWT is to authenticate user. Django and PostgreSQL is used as backend technologies.",
+    "technology": "Next.Js, Material UI, GraphQL, Python, Django, PostgreSQL, REST API.",
+    "live": "https://ehsanmarketing.com/",
+    "server": null,
+    "client": null
+  },
+    {
+    "id": 1,
+    "screen1": "https://i.ibb.co/THZRKMC/Screenshot-from-2022-07-28-14-27-39.png",
+    "screen2": "https://i.ibb.co/dGRN0Hj/Screenshot-from-2022-07-28-14-29-03.png",
+    "screen3": "https://i.ibb.co/VV6gQ9h/Screenshot-from-2022-07-28-14-29-46.png",
+    "name": "Payra",
+    "type": "E-Commerce",
+    "short_des": "Material UI and Next.Js is used to complete this website. JWT is to authenticate user. Express.Js and MongoDB is used as backend technologies.",
+    "technology": "Next.Js, Material UI, GraphQL, Express.Js, MongoDB.",
+    "live": "https://payra-ecommerce.vercel.app/",
+    "server": null,
+    "client": null
+  },
+  {
+    "id": 3,
+    "screen1": "https://i.ibb.co/nBv6ZrZ/project-1-1.png",
+    "screen2": "https://i.ibb.co/qF2dYsk/project-1-2.png",
+    "screen3": "https://i.ibb.co/kGnXXfn/project-1-3.png",
+    "name": "As-Sunnah Pathagar",
+    "type": "Book Delivery Services",
+    "short_des": "Tailwind CSS, Material UI and React js is used to complete this website. Firebase is used to authenticate users. MongoDb and Heroku is used as database and server hosting.",
+    "technology": "React Js, Material UI, Tailwind CSS, Firebase, Node JS, Express.js, MongoDB, Heroku.",
+    "live": "https://as-sunnah-pathagar.web.app/",
+    "server": "https://github.com/nmso2/as-sunnah-pathagar-server",
+    "client": "https://github.com/nmso2/as-sunnah-pathagar-client"
+  },
+  {
+    "id": 4,
+    "screen1": "https://i.ibb.co/7ppycYp/project-2-1.png",
+    "screen2": "https://i.ibb.co/hMmmb9t/project-2-2.png",
+    "screen3": "https://i.ibb.co/jVSQSMq/project-2-3.png",
+    "name": "Sunglass Collection",
+    "type": "Buy and Sell Services",
+    "short_des": "This website is built using Tailwind CSS, Material UI, and React js. Users are authenticated using Firebase. MongoDb and Heroku are used to host the database and server, respectively.",
+    "technology": "React Js, Material UI, Tailwind CSS, Firebase, Node JS, Express.js, MongoDB, Heroku.",
+    "live": "https://sunglass-collection.web.app/",
+    "server": "https://github.com/nmso2/sunglass-collection-server",
+    "client": "https://github.com/nmso2/sunglass-collection-client"
+  },
+  {
+    "id": 5,
+    "screen1": "https://i.ibb.co/SJSjXr5/project-3-1.png",
+    "screen2": "https://i.ibb.co/9YRWjTx/project-3-2.png",
+    "screen3": "https://i.ibb.co/8ccgkw3/project-3-3.png",
+    "name": "Open Door Clinic",
+    "type": "Hospial Services",
+    "short_des": "This project is built using the React. Tailwind CSS is used as CSS framework. Authentication via Firebase was used. Utilized the Google, Github, and Email login features. There are private and dynamic routes available.",
+    "technology": "React Js, Tailwind CSS, Firebase.",
+    "live": "https://open-door-clinic.web.app/",
+    "client": "https://github.com/nmso2/open-door-clinic-react-tailwind"
+  },
+  {
+    "id": 6,
+    "screen1": "https://i.ibb.co/Ny6gGwv/project-4-2.png",
+    "screen2": "https://i.ibb.co/gW14MhH/project-4-1.png",
+    "screen3": "https://i.ibb.co/swHmYBv/project-4-3.png",
+    "name": "Bird's Eye",
+    "type": "Tour Planner",
+    "short_des": "This website is completed with Tailwind CSS and React js. Users are authenticated using Firebase. Database and server hosting are provided by MongoDB and Heroku.",
+    "technology": "React Js, Material UI, Tailwind CSS, Firebase, Node JS, Express.js, MongoDB, Heroku.",
+    "live": "https://birds-eye-tour-planner.web.app/",
+    "server": "https://github.com/nmso2/-Birds_eye_tour_planner_server",
+    "client": "https://github.com/nmso2/Birds_eye_tour_planner_client"
+  }
+]
 }
