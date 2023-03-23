@@ -76,9 +76,9 @@
   "projects": [
     {
     "id": 2,
-    "screen1": "https://i.ibb.co/NmtYTyx/Screenshot-from-2022-07-28-14-15-21.png",
-    "screen2": "https://i.ibb.co/W2Wc1LB/Screenshot-from-2022-07-28-14-16-33.png",
-    "screen3": "https://i.ibb.co/Wf53NFN/Screenshot-from-2022-07-28-14-15-43.png",
+    "screen1": "https://nmsubho.github.io/fake-data-json/data/portfolio_images/ehsan-1.webp",
+    "screen2": "https://nmsubho.github.io/fake-data-json/data/portfolio_images/ehsan-2.webp",
+    "screen3": "https://nmsubho.github.io/fake-data-json/data/portfolio_images/ehsan-3.webp",
     "name": "Ehsan Marketing",
     "type": "E-Commerce",
     "short_des": "Material UI and Next.Js is used to complete this website. JWT is to authenticate user. Django and PostgreSQL is used as backend technologies.",
@@ -89,9 +89,9 @@
   },
     {
     "id": 1,
-    "screen1": "https://i.ibb.co/THZRKMC/Screenshot-from-2022-07-28-14-27-39.png",
-    "screen2": "https://i.ibb.co/dGRN0Hj/Screenshot-from-2022-07-28-14-29-03.png",
-    "screen3": "https://i.ibb.co/VV6gQ9h/Screenshot-from-2022-07-28-14-29-46.png",
+    "screen1": "https://nmsubho.github.io/fake-data-json/data/portfolio_images/payra-1.webp",
+    "screen2": "https://nmsubho.github.io/fake-data-json/data/portfolio_images/payra-2.webp",
+    "screen3": "https://nmsubho.github.io/fake-data-json/data/portfolio_images/payra-3.webp",
     "name": "Payra",
     "type": "E-Commerce",
     "short_des": "Material UI and Next.Js is used to complete this website. JWT is to authenticate user. Express.Js and MongoDB is used as backend technologies.",
