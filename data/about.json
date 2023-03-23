@@ -76,7 +76,7 @@
   "projects": [
     {
     "id": 2,
-    "screen1": "https://nmsubho.github.io/fake-data-json/data/portfolio_images/ehsan-1.webp",
+    "screen1": "https://raw.githubusercontent.com/nmsubho/fake-data-json/main/data/portfolio_images/ehsan-1.webp",
     "screen2": "https://nmsubho.github.io/fake-data-json/data/portfolio_images/ehsan-2.webp",
     "screen3": "https://nmsubho.github.io/fake-data-json/data/portfolio_images/ehsan-3.webp",
     "name": "Ehsan Marketing",
