@@ -76,7 +76,7 @@
   ],
   "projects": [
     {
-      "id": 8,
+      "id": 9,
       "screen1": "https://i.ibb.co/mGJh78x/dc-1.png",
       "screen2": "https://i.ibb.co/PQj5vJp/dc-2.png",
       "screen3": "https://i.ibb.co/wK960Zr/dc-3.png",
@@ -89,7 +89,7 @@
       "client": null
     },
     {
-      "id": 7,
+      "id": 8,
       "screen1": "https://i.ibb.co/r0DSMXq/ambu-1.png",
       "screen2": "https://i.ibb.co/VVxNrLS/ambu-2.png",
       "screen3": "https://i.ibb.co/YPWXJhD/ambu-3.png",
@@ -98,6 +98,19 @@
       "short_des": "Associate app for Data connector. Data connector is a no-code pipeline platform that moves your data where you want it, when you want it in a simple, affordable way.",
       "technology": "Material UI, REST API, Microservices, PostgreSQL, NodeJS, JavaScript, ReactJS",
       "live": "https://ambulytics.com/",
+      "server": null,
+      "client": null
+    },
+    {
+      "id": 7,
+      "screen1": "https://i.ibb.co/Z2dByTH/kk-1.png",
+      "screen2": "",
+      "screen3": "",
+      "name": "Knotty Knickers",
+      "type": "E-Commerce",
+      "short_des": "Knotty is a lingerie company inviting you to re-imagine yourself in carefully designed underwear and lingerie made for women by women.",
+      "technology": "Shopify",
+      "live": "https://www.knottyknickers.co/",
       "server": null,
       "client": null
     },
