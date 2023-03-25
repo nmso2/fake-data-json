@@ -77,9 +77,11 @@
   "projects": [
     {
       "id": 9,
-      "screen1": "https://i.ibb.co/mGJh78x/dc-1.png",
-      "screen2": "https://i.ibb.co/PQj5vJp/dc-2.png",
-      "screen3": "https://i.ibb.co/wK960Zr/dc-3.png",
+      "screens": [
+        "https://i.ibb.co/mGJh78x/dc-1.png",
+        "https://i.ibb.co/PQj5vJp/dc-2.png",
+        "https://i.ibb.co/wK960Zr/dc-3.png"
+      ],
       "name": "Data Connector",
       "type": "No-code data pipeline platform",
       "short_des": "Data connector is a no-code pipeline platform that moves your data where you want it, when you want it in a simple, affordable way.",
@@ -90,9 +92,11 @@
     },
     {
       "id": 8,
-      "screen1": "https://i.ibb.co/r0DSMXq/ambu-1.png",
-      "screen2": "https://i.ibb.co/VVxNrLS/ambu-2.png",
-      "screen3": "https://i.ibb.co/YPWXJhD/ambu-3.png",
+      "screens": [
+        "https://i.ibb.co/r0DSMXq/ambu-1.png",
+        "https://i.ibb.co/VVxNrLS/ambu-2.png",
+        "https://i.ibb.co/YPWXJhD/ambu-3.png"
+      ],
       "name": "Ambulytics",
       "type": "Management",
       "short_des": "Associate app for Data connector. Data connector is a no-code pipeline platform that moves your data where you want it, when you want it in a simple, affordable way.",
@@ -103,9 +107,7 @@
     },
     {
       "id": 7,
-      "screen1": "https://i.ibb.co/Z2dByTH/kk-1.png",
-      "screen2": "",
-      "screen3": "",
+      "screens": ["https://i.ibb.co/Z2dByTH/kk-1.png"],
       "name": "Knotty Knickers",
       "type": "E-Commerce",
       "short_des": "Knotty is a lingerie company inviting you to re-imagine yourself in carefully designed underwear and lingerie made for women by women.",
@@ -116,9 +118,11 @@
     },
     {
       "id": 6,
-      "screen1": "https://i.ibb.co/NmtYTyx/Screenshot-from-2022-07-28-14-15-21.png",
-      "screen2": "https://i.ibb.co/W2Wc1LB/Screenshot-from-2022-07-28-14-16-33.png",
-      "screen3": "https://i.ibb.co/Wf53NFN/Screenshot-from-2022-07-28-14-15-43.png",
+      "screens": [
+        "https://i.ibb.co/NmtYTyx/Screenshot-from-2022-07-28-14-15-21.png",
+        "https://i.ibb.co/W2Wc1LB/Screenshot-from-2022-07-28-14-16-33.png",
+        "https://i.ibb.co/Wf53NFN/Screenshot-from-2022-07-28-14-15-43.png"
+      ],
       "name": "Ehsan Marketing",
       "type": "E-Commerce",
       "short_des": "Material UI and Next.Js is used to complete this website. JWT is to authenticate user. Django and PostgreSQL is used as backend technologies.",
@@ -129,9 +133,11 @@
     },
     {
       "id": 5,
-      "screen1": "https://i.ibb.co/THZRKMC/Screenshot-from-2022-07-28-14-27-39.png",
-      "screen2": "https://i.ibb.co/dGRN0Hj/Screenshot-from-2022-07-28-14-29-03.png",
-      "screen3": "https://i.ibb.co/VV6gQ9h/Screenshot-from-2022-07-28-14-29-46.png",
+      "screens": [
+        "https://i.ibb.co/THZRKMC/Screenshot-from-2022-07-28-14-27-39.png",
+        "https://i.ibb.co/dGRN0Hj/Screenshot-from-2022-07-28-14-29-03.png",
+        "https://i.ibb.co/VV6gQ9h/Screenshot-from-2022-07-28-14-29-46.png"
+      ],
       "name": "Payra",
       "type": "E-Commerce",
       "short_des": "Material UI and Next.Js is used to complete this website. JWT is to authenticate user. Express.Js and MongoDB is used as backend technologies.",
@@ -142,9 +148,11 @@
     },
     {
       "id": 4,
-      "screen1": "https://i.ibb.co/nBv6ZrZ/project-1-1.png",
-      "screen2": "https://i.ibb.co/qF2dYsk/project-1-2.png",
-      "screen3": "https://i.ibb.co/kGnXXfn/project-1-3.png",
+      "screens": [
+        "https://i.ibb.co/nBv6ZrZ/project-1-1.png",
+        "https://i.ibb.co/qF2dYsk/project-1-2.png",
+        "https://i.ibb.co/kGnXXfn/project-1-3.png"
+      ],
       "name": "As-Sunnah Pathagar",
       "type": "Book Delivery Services",
       "short_des": "Tailwind CSS, Material UI and React js is used to complete this website. Firebase is used to authenticate users. MongoDb and Heroku is used as database and server hosting.",
