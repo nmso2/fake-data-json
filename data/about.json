@@ -91,6 +91,7 @@
       "type": "Non-profit organization",
       "short_des": "MEDHA is a non-profit promoting medical, education and health development to improve lives through innovative programs and initiatives.",
       "technology": "Next.Js, Angular, Node.js, REST API, Microservices, MySQL,  JavaScript",
+      "contributions": "Working on the frontend design involves creating the user interface and ensuring that it is visually appealing and easy to use. On the other hand, working on the backend involves writing the code that runs on the server and handles tasks such as data processing, authentication, and database management.",
       "live": "https://www.medhabd.org/",
       "server": null,
       "client": null
@@ -106,6 +107,7 @@
       "type": "No-code data pipeline platform",
       "short_des": "Data connector is a no-code pipeline platform that moves your data where you want it, when you want it in a simple, affordable way.",
       "technology": "Material UI, REST API, Microservices, PostgreSQL, Node.js, JavaScript, ReactJS",
+      "contributions": "",
       "live": "https://dataconnector.com/",
       "server": null,
       "client": null
@@ -121,6 +123,7 @@
       "type": "Management",
       "short_des": "Associate app for Data connector. Data connector is a no-code pipeline platform that moves your data where you want it, when you want it in a simple, affordable way.",
       "technology": "Material UI, REST API, Microservices, PostgreSQL, Node.js, JavaScript, ReactJS",
+      "contributions": "",
       "live": "https://ambulytics.com/",
       "server": null,
       "client": null
@@ -132,6 +135,7 @@
       "type": "E-Commerce",
       "short_des": "Knotty is a lingerie company inviting you to re-imagine yourself in carefully designed underwear and lingerie made for women by women.",
       "technology": "Shopify",
+      "contributions": "",
       "live": "https://www.knottyknickers.co/",
       "server": null,
       "client": null
@@ -147,6 +151,7 @@
       "type": "E-Commerce",
       "short_des": "Material UI and Next.Js is used to complete this website. JWT is to authenticate user. Django and PostgreSQL is used as backend technologies.",
       "technology": "Next.Js, Material UI, GraphQL, Python, Django, PostgreSQL, REST API.",
+      "contributions": "",
       "live": "https://ehsanmarketing.com/",
       "server": null,
       "client": null
@@ -162,6 +167,7 @@
       "type": "E-Commerce",
       "short_des": "Material UI and Next.Js is used to complete this website. JWT is to authenticate user. Express.Js and MongoDB is used as backend technologies.",
       "technology": "Next.Js, Material UI, GraphQL, Express.Js, MongoDB.",
+      "contributions": "",
       "live": "https://payra-ecommerce.vercel.app/",
       "server": null,
       "client": null
@@ -177,6 +183,7 @@
       "type": "Book Delivery Services",
       "short_des": "Tailwind CSS, Material UI and React js is used to complete this website. Firebase is used to authenticate users. MongoDb and Heroku is used as database and server hosting.",
       "technology": "React Js, Material UI, Tailwind CSS, Firebase, Node JS, Express.js, MongoDB, Heroku.",
+      "contributions": "",
       "live": "https://as-sunnah-pathagar.web.app/",
       "server": "https://github.com/nmso2/as-sunnah-pathagar-server",
       "client": "https://github.com/nmso2/as-sunnah-pathagar-client"
