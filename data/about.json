@@ -76,6 +76,26 @@
   ],
   "projects": [
     {
+      "id": 10,
+      "screens": [
+        "https://i.ibb.co/bWNT6LM/Screenshot-2023-04-29-at-3-17-00-PM.png",
+        "https://i.ibb.co/P4JB916/Screenshot-2023-04-29-at-3-25-38-PM.png",
+        "https://i.ibb.co/TgvSHgq/Screenshot-2023-04-29-at-3-18-30-PM.png",
+        "https://i.ibb.co/FYhPGxS/Screenshot-2023-04-29-at-3-26-00-PM.png",
+        "https://i.ibb.co/5Gq3038/Screenshot-2023-04-29-at-3-27-01-PM.png",
+        "https://i.ibb.co/72DbK55/Screenshot-2023-04-29-at-3-27-30-PM.png",
+        "https://i.ibb.co/Rc5rY10/Screenshot-2023-04-29-at-3-17-31-PM.png",
+        "https://i.ibb.co/R64Qzbf/Screenshot-2023-04-29-at-3-26-37-PM.png"
+      ],
+      "name": "MEDHA",
+      "type": "Non-profit organization",
+      "short_des": "MEDHA is a non-profit promoting medical, education and health development to improve lives through innovative programs and initiatives.",
+      "technology": "Next.Js, Angular, Node.js, REST API, Microservices, MySQL,  JavaScript",
+      "live": "https://www.medhabd.org/",
+      "server": null,
+      "client": null
+    },
+    {
       "id": 9,
       "screens": [
         "https://i.ibb.co/mGJh78x/dc-1.png",
@@ -85,7 +105,7 @@
       "name": "Data Connector",
       "type": "No-code data pipeline platform",
       "short_des": "Data connector is a no-code pipeline platform that moves your data where you want it, when you want it in a simple, affordable way.",
-      "technology": "Material UI, REST API, Microservices, PostgreSQL, NodeJS, JavaScript, ReactJS",
+      "technology": "Material UI, REST API, Microservices, PostgreSQL, Node.js, JavaScript, ReactJS",
       "live": "https://dataconnector.com/",
       "server": null,
       "client": null
@@ -100,7 +120,7 @@
       "name": "Ambulytics",
       "type": "Management",
       "short_des": "Associate app for Data connector. Data connector is a no-code pipeline platform that moves your data where you want it, when you want it in a simple, affordable way.",
-      "technology": "Material UI, REST API, Microservices, PostgreSQL, NodeJS, JavaScript, ReactJS",
+      "technology": "Material UI, REST API, Microservices, PostgreSQL, Node.js, JavaScript, ReactJS",
       "live": "https://ambulytics.com/",
       "server": null,
       "client": null
