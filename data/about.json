@@ -76,6 +76,23 @@
   ],
   "projects": [
     {
+      "id": 11,
+      "screens": [
+"https://i.ibb.co/Zcjr9f1/Screenshot-10.png",
+"https://i.ibb.co/CPkXcVk/Screenshot-12.png",
+"https://i.ibb.co/w0SPxq9/Screenshot-32.png",
+"https://i.ibb.co/WVDKYqK/Screenshot-33.png"
+      ],
+      "name": "RAAM Development Inc.",
+      "type": "Developer portfolio",
+      "short_des": "This is a portfolio website for a construction company named RAAM Development Inc.",
+      "technology": "React, Angular, Node.js, REST API, MySQL,  JavaScript",
+      "contributions": "I have extensive experience working on both the frontend and backend aspects of this project. I leveraged React, a popular javascript library, to develop the frontend. On the backend, I used Node.js and MySQL as the database management system. I also implemented JSON Web Tokens (JWT) for authentication purposes and developed highly optimized APIs to enhance performance. Additionally, I developed an Angular-based admin panel with full CRUD (Create, Read, Update, Delete) functionality.",
+      "live": "https://raamdevelopment.com/",
+      "server": null,
+      "client": null
+    },
+    {
       "id": 10,
       "screens": [
         "https://i.ibb.co/bWNT6LM/Screenshot-2023-04-29-at-3-17-00-PM.png",
@@ -90,7 +107,7 @@
       "name": "MEDHA",
       "type": "Non-profit organization",
       "short_des": "MEDHA is a non-profit promoting medical, education and health development to improve lives through innovative programs and initiatives.",
-      "technology": "Next.Js, Angular, Node.js, REST API, Microservices, MySQL,  JavaScript",
+      "technology": "Next.Js, Angular, Node.js, REST API, MySQL,  JavaScript",
       "contributions": "I have extensive experience working on both the frontend and backend aspects of this project. I leveraged Next.js, a popular React-based framework, to develop the frontend, utilizing its client-side rendering and server-side rendering capabilities. On the backend, I used Node.js and MySQL as the database management system. I also implemented JSON Web Tokens (JWT) for authentication purposes and developed highly optimized APIs to enhance performance. Additionally, I developed an Angular-based admin panel with full CRUD (Create, Read, Update, Delete) functionality.",
       "live": "https://www.medhabd.org/",
       "server": null,
@@ -153,22 +170,6 @@
       "technology": "Next.Js, Material UI, GraphQL, Python, Django, PostgreSQL, REST API.",
       "contributions": "Worked on the dashboard section of this project which includes user and admin sections separately. Used next.js and Material UI to complete the design and functionalities.",
       "live": "https://ehsanmarketing.com/",
-      "server": null,
-      "client": null
-    },
-    {
-      "id": 5,
-      "screens": [
-        "https://i.ibb.co/THZRKMC/Screenshot-from-2022-07-28-14-27-39.png",
-        "https://i.ibb.co/dGRN0Hj/Screenshot-from-2022-07-28-14-29-03.png",
-        "https://i.ibb.co/VV6gQ9h/Screenshot-from-2022-07-28-14-29-46.png"
-      ],
-      "name": "Payra",
-      "type": "E-Commerce",
-      "short_des": "This E-Commerce website was created as one of personal projects which can be used as an online version of a store and hopefully it will be completed soon.",
-      "technology": "Next.Js, Material UI, GraphQL, Express.Js, MongoDB.",
-      "contributions": "I have extensive experience working on both the frontend and backend aspects of this project. I leveraged Next.js, a popular React-based framework, to develop the frontend, utilizing its client-side rendering and server-side rendering capabilities. On the backend, I used Node.js and MongoDB as the database management system. I also implemented JSON Web Tokens (JWT) for authentication purposes and developed highly optimized APIs with GraphQL to enhance performance. Additionally, I developed admin panel with full CRUD (Create, Read, Update, Delete) functionality.",
-      "live": "https://payra-ecommerce.vercel.app/",
       "server": null,
       "client": null
     },
