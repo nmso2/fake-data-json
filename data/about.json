@@ -76,23 +76,6 @@
   ],
   "projects": [
     {
-      "id": 11,
-      "screens": [
-"https://i.ibb.co/Zcjr9f1/Screenshot-10.png",
-"https://i.ibb.co/CPkXcVk/Screenshot-12.png",
-"https://i.ibb.co/w0SPxq9/Screenshot-32.png",
-"https://i.ibb.co/WVDKYqK/Screenshot-33.png"
-      ],
-      "name": "RAAM Development Inc.",
-      "type": "Developer portfolio",
-      "short_des": "This is a portfolio website for a construction company named RAAM Development Inc.",
-      "technology": "React, Angular, Node.js, REST API, MySQL,  JavaScript",
-      "contributions": "I have extensive experience working on both the frontend and backend aspects of this project. I leveraged React, a popular javascript library, to develop the frontend. On the backend, I used Node.js and MySQL as the database management system. I also implemented JSON Web Tokens (JWT) for authentication purposes and developed highly optimized APIs to enhance performance. Additionally, I developed an Angular-based admin panel with full CRUD (Create, Read, Update, Delete) functionality.",
-      "live": "https://raamdevelopment.com/",
-      "server": null,
-      "client": null
-    },
-    {
       "id": 10,
       "screens": [
         "https://i.ibb.co/bWNT6LM/Screenshot-2023-04-29-at-3-17-00-PM.png",
