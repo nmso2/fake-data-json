@@ -1,1 +1,193 @@
-
+{
+  "name": "Md. Nagib Mahfuz Subho",
+  "address": {
+    "present": "Dhaka",
+    "permanent": "Kushtia"
+  },
+  "about_me": {
+    "short": "A Full-Stack Developer with a focus on JavaScript Technologies throughout the stack (Node.js, Express, MongoDB, React). Experience developing complete web applications using backend API systems.",
+    "details1": "Allow me to provide you with a brief overview of my background. I hail from Kushtia and hold a BSc. degree in Information and Communication Engineering from Pabna University of Science and Technology. My current focus lies in the realm of Web Development.",
+    "details2": "As an individual, I identify as extroverted and derive pleasure from engaging with diverse individuals and gaining insights into their unique experiences and perspectives. I take pride in being able to establish commonalities with strangers and ensuring their comfort in my presence.",
+    "details3": "I possess over a year of professional experience in software development, with a specialization as a Web Developer. Furthermore, I have successfully developed applications utilizing technologies such as JavaScript, ES6, Angular, React, Next.js, Node.js, HTML, CSS, REST API, and GraphQL. My knowledge extends to working with continuous integration frameworks and cloud services such as Amazon AWS.",
+    "details4": "In addition, I have expertise in code versioning systems, namely git/GitHub/bitbucket. With a strong background in problem-solving, I have a deep understanding of data structures and algorithmic principles."
+  },
+  "job": {
+    "company": "Dynamic Megasoft Limited",
+    "designation": "Software Developer",
+    "website": "https://dynamicsoft.us/",
+    "location": "Mohammadpur, Dhaka"
+  },
+  "skills": [
+    ["React JS", 85, "", null],
+    ["Next.js", 85, "#b87333", null],
+    ["Angular", 70, "#bj78ar", null],
+    ["Redux", 75, "#43ff64", null],
+    ["Redux Toolkit", 80, "#431964", null],
+    ["GraphQL", 75, "#b31964", null],
+    ["Material UI", 85, "color: #e65a9d", null],
+    ["Node.js", 80, "color: #5a8de6", null],
+    ["Express.js", 80, "color: #e6945a", null],
+    ["MongoDB", 70, "", null],
+    ["Tailwind CSS", 80, "color: #00782c", null],
+    ["React Bootstrap", 85, "#e6785a", null],
+    ["Javascript", 80, "#005878", null],
+    ["HTML", 85, "#b87333", null],
+    ["CSS", 85, "#c203fc", null],
+    ["Bootstrap", 85, "#e6785a", null]
+  ],
+  "typed_skills": [
+    "Expert in React JS",
+    "Expert in Next.js",
+    "Expert in Redux",
+    "Expert in Node.js",
+    "Expert in Express.js",
+    "Expert in Material UI",
+    "Expert in Tailwind CSS",
+    "Expert in React Bootstrap",
+    "Good Understanding of GraphQL",
+    "Good Understanding of MongoDB",
+    "Good Understanding of Angular"
+  ],
+  "contact": {
+    "email": "nmsubho@gmail.com",
+    "mobile": "01521414075",
+    "facebook": "https://www.facebook.com/nmsubho",
+    "instagram": "https://www.instagram.com/nm.subho/",
+    "linkedin": "https://www.linkedin.com/in/nmsubho/",
+    "github": "https://github.com/nmsubho",
+    "resume": "https://drive.google.com/uc?export=download&id=1bSePoG7r_JwIVE0PVD3W1KlLFDdhXJ5U"
+  },
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Bind, Call & Apply",
+      "content": "Bind, Call, Apply এদের সাধারণ কাজই হচ্ছে অন্য কোন একটা অবজেক্ট এর মধ্যে কোন একটা method আছে সেটা আমি অন্য আরেকটা অবজেক্ট এর জন্য ইউজ করব, ইউজ করতে গেলে bind হচ্ছে ওই ফাংশনটা bind করে নতুন একটা ফাংশন তৈরি করে। সেটা কে কল করে করে ইউজ করতে হয়। Call হচ্ছে তুমি সরাসরি কল করবা। কল করতে গেলে ওই যে ফাংশন টা কে তুমি কল করবা সেটার প্রথম প্যারামিটার হিসেবে যাবে যেই অবজেক্টের জন্য কল করবে সেটা এবং method এ যে প্যারামিটার গুলা লাগবে সেগুলা কমা দিয়ে দিয়ে দিতে হবে। আর Apply এর ক্ষেত্রে method এর প্যারামিটার গুলা array আকারে দিতে হবে।"
+    },
+    {
+      "id": 2,
+      "title": "undefined আর null",
+      "content": "undefined: ভ্যালু সেট করা হয়নি। সেট না করলে নিজে নিজে undefined হয়ে যায়। বিভিন্ন ভাবে undefined হতে পারে। null: ভ্যালু নাই। null নিজে সেট করতে হয়। নিজে নিজে null হতে পারে না।"
+    },
+    {
+      "id": 3,
+      "title": "Double equal (==) আর Triple equal (===)",
+      "content": "== ভ্যালুর সাথে সাথে টাইপ compare করে না। যা কিছুই compare করা হোক না কেন সেটকে number টাইপে কনভার্ট করে ফেলে। তারপর তাদের compare করে। === ভ্যালুর সাথে সাথে টাইপও compare করে। "
+    }
+  ],
+  "projects": [
+    {
+      "id": 11,
+      "screens": [
+"https://i.ibb.co/Zcjr9f1/Screenshot-10.png",
+"https://i.ibb.co/CPkXcVk/Screenshot-12.png",
+"https://i.ibb.co/w0SPxq9/Screenshot-32.png",
+"https://i.ibb.co/WVDKYqK/Screenshot-33.png"
+      ],
+      "name": "RAAM Development Inc.",
+      "type": "Developer portfolio",
+      "short_des": "This is a portfolio website for a construction company named RAAM Development Inc.",
+      "technology": "React, Angular, Node.js, REST API, MySQL,  JavaScript",
+      "contributions": "I have extensive experience working on both the frontend and backend aspects of this project. I leveraged React, a popular javascript library, to develop the frontend. On the backend, I used Node.js and MySQL as the database management system. I also implemented JSON Web Tokens (JWT) for authentication purposes and developed highly optimized APIs to enhance performance. Additionally, I developed an Angular-based admin panel with full CRUD (Create, Read, Update, Delete) functionality.",
+      "live": "https://raamdevelopment.com/",
+      "server": null,
+      "client": null
+    },
+    {
+      "id": 10,
+      "screens": [
+        "https://i.ibb.co/bWNT6LM/Screenshot-2023-04-29-at-3-17-00-PM.png",
+        "https://i.ibb.co/TgvSHgq/Screenshot-2023-04-29-at-3-18-30-PM.png",
+        "https://i.ibb.co/Rc5rY10/Screenshot-2023-04-29-at-3-17-31-PM.png",
+        "https://i.ibb.co/P4JB916/Screenshot-2023-04-29-at-3-25-38-PM.png",
+        "https://i.ibb.co/FYhPGxS/Screenshot-2023-04-29-at-3-26-00-PM.png",
+        "https://i.ibb.co/5Gq3038/Screenshot-2023-04-29-at-3-27-01-PM.png",
+        "https://i.ibb.co/72DbK55/Screenshot-2023-04-29-at-3-27-30-PM.png",
+        "https://i.ibb.co/R64Qzbf/Screenshot-2023-04-29-at-3-26-37-PM.png"
+      ],
+      "name": "MEDHA",
+      "type": "Non-profit organization",
+      "short_des": "MEDHA is a non-profit promoting medical, education and health development to improve lives through innovative programs and initiatives.",
+      "technology": "Next.Js, Angular, Node.js, REST API, MySQL,  JavaScript",
+      "contributions": "I have extensive experience working on both the frontend and backend aspects of this project. I leveraged Next.js, a popular React-based framework, to develop the frontend, utilizing its client-side rendering and server-side rendering capabilities. On the backend, I used Node.js and MySQL as the database management system. I also implemented JSON Web Tokens (JWT) for authentication purposes and developed highly optimized APIs to enhance performance. Additionally, I developed an Angular-based admin panel with full CRUD (Create, Read, Update, Delete) functionality.",
+      "live": "https://www.medhabd.org/",
+      "server": null,
+      "client": null
+    },
+    {
+      "id": 9,
+      "screens": [
+        "https://i.ibb.co/mGJh78x/dc-1.png",
+        "https://i.ibb.co/PQj5vJp/dc-2.png",
+        "https://i.ibb.co/wK960Zr/dc-3.png"
+      ],
+      "name": "Data Connector",
+      "type": "No-code data pipeline platform",
+      "short_des": "Data connector is a no-code pipeline platform that moves your data where you want it, when you want it in a simple, affordable way.",
+      "technology": "ReactJS, Material UI, Node.js, PostgreSQL, AWS, REST API, Microservices",
+      "contributions": "I have extensive experience working on both the frontend and backend aspects of this project. I used ReactJS to develop the frontend. On the backend, I used Node.js, PostgreSQL as the database management system and AWS. I also used AWS cognito service for authentication purposes and developed highly optimized APIs to enhance performance with other developers.",
+      "live": "https://dataconnector.com/",
+      "server": null,
+      "client": null
+    },
+    {
+      "id": 8,
+      "screens": [
+        "https://i.ibb.co/r0DSMXq/ambu-1.png",
+        "https://i.ibb.co/VVxNrLS/ambu-2.png",
+        "https://i.ibb.co/YPWXJhD/ambu-3.png"
+      ],
+      "name": "Ambulytics",
+      "type": "Management",
+      "short_des": "Associate app for Data connector. Data connector is a no-code pipeline platform that moves your data where you want it, when you want it in a simple, affordable way.",
+      "technology": "Material UI, REST API, Microservices, PostgreSQL, Node.js, JavaScript, ReactJS",
+      "contributions": "I have extensive experience working on both the frontend and backend aspects of this project. I used ReactJS to develop the frontend. On the backend, I used Node.js, PostgreSQL as the database management system and AWS. I also used AWS cognito service for authentication purposes and developed highly optimized APIs to enhance performance.",
+      "live": "https://ambulytics.com/",
+      "server": null,
+      "client": null
+    },
+    {
+      "id": 7,
+      "screens": ["https://i.ibb.co/Z2dByTH/kk-1.png"],
+      "name": "Knotty Knickers",
+      "type": "E-Commerce",
+      "short_des": "Knotty is a lingerie company inviting you to re-imagine yourself in carefully designed underwear and lingerie made for women by women.",
+      "technology": "Shopify",
+      "contributions": "Worked on a slider feature on product page which is being used by many users.",
+      "live": "https://www.knottyknickers.co/",
+      "server": null,
+      "client": null
+    },
+    {
+      "id": 6,
+      "screens": [
+        "https://i.ibb.co/NmtYTyx/Screenshot-from-2022-07-28-14-15-21.png",
+        "https://i.ibb.co/W2Wc1LB/Screenshot-from-2022-07-28-14-16-33.png",
+        "https://i.ibb.co/Wf53NFN/Screenshot-from-2022-07-28-14-15-43.png"
+      ],
+      "name": "Ehsan Marketing",
+      "type": "E-Commerce",
+      "short_des": "It's a multivendor E-Commerce website with different functionalities other than typical E-Commerce website. Which includes job finding services.",
+      "technology": "Next.Js, Material UI, GraphQL, Python, Django, PostgreSQL, REST API.",
+      "contributions": "Worked on the dashboard section of this project which includes user and admin sections separately. Used next.js and Material UI to complete the design and functionalities.",
+      "live": "https://ehsanmarketing.com/",
+      "server": null,
+      "client": null
+    },
+    {
+      "id": 4,
+      "screens": [
+        "https://i.ibb.co/nBv6ZrZ/project-1-1.png",
+        "https://i.ibb.co/qF2dYsk/project-1-2.png",
+        "https://i.ibb.co/kGnXXfn/project-1-3.png"
+      ],
+      "name": "As-Sunnah Pathagar",
+      "type": "Book Delivery Services",
+      "short_des": "This website was created as one of personal projects. It's main functionalities are store information of books from a library and allow users to request a book online.",
+      "technology": "React Js, Material UI, Tailwind CSS, Firebase, Node JS, Express.js, MongoDB, Heroku.",
+      "contributions": "I have extensive experience working on both the frontend and backend aspects of this project. I used ReactJS, Tailwind CSS and Material UI to develop the frontend. On the backend, I used Node.js, MongoDB as the database management system and Firebase. I also used Firebase for authentication purposes and developed highly optimized APIs to enhance performance with other developers.",
+      "live": "https://as-sunnah-pathagar.web.app/",
+      "server": "https://github.com/nmso2/as-sunnah-pathagar-server",
+      "client": "https://github.com/nmso2/as-sunnah-pathagar-client"
+    }
+  ]
+}
