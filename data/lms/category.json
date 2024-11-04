@@ -1,222 +1,52 @@
 [
   {
-    "category": "JavaScript",
-    "name": "Introduction",
-    "description": "JavaScript is a versatile programming language commonly used to add interactivity to websites.",
-    "tutorials": [
-      {
-        "id": 1,
-        "title": "Getting Started with JavaScript",
-        "content": "An introduction to JavaScript basics, including variables, functions, and data types."
-      },
-      {
-        "id": 2,
-        "title": "JavaScript and the DOM",
-        "content": "Learn how JavaScript interacts with the Document Object Model (DOM) to manipulate web content."
-      }
-    ]
+    "id": 1,
+    "name": "JavaScript",
+    "description": "A versatile, high-level programming language essential for web development, JavaScript enables dynamic content, user interactions, and responsive design. Widely used in front-end development and also supported on the server side with Node.js."
   },
   {
-    "category": "JavaScript",
-    "name": "Advanced",
-    "description": "This section covers advanced topics in JavaScript for experienced developers.",
-    "tutorials": [
-      {
-        "id": 3,
-        "title": "Async Programming with Promises",
-        "content": "Understand asynchronous programming in JavaScript with promises and async/await syntax."
-      },
-      {
-        "id": 4,
-        "title": "JavaScript Modules and Imports",
-        "content": "Explore JavaScript modules to organize code and enable reusability."
-      }
-    ]
+    "id": 2,
+    "name": "React",
+    "description": "A powerful JavaScript library developed by Facebook, React is used for building interactive user interfaces. It allows developers to create reusable components, making web applications more efficient and easier to manage."
   },
   {
-    "category": "React",
-    "name": "Introduction",
-    "description": "React is a JavaScript library for building user interfaces using reusable components.",
-    "tutorials": [
-      {
-        "id": 5,
-        "title": "Getting Started with React",
-        "content": "Set up your first React project and learn the basics of components and JSX."
-      }
-    ]
+    "id": 3,
+    "name": "React Native",
+    "description": "An open-source framework by Facebook, React Native allows developers to build mobile applications using JavaScript and React principles, offering a unified experience across iOS and Android with native performance."
   },
   {
-    "category": "React",
-    "name": "Advanced",
-    "description": "Advanced React concepts including hooks, context, and performance optimization.",
-    "tutorials": [
-      {
-        "id": 6,
-        "title": "State Management with Redux",
-        "content": "Use Redux to manage state in complex React applications."
-      },
-      {
-        "id": 7,
-        "title": "React Performance Optimization",
-        "content": "Improve React app performance with techniques like memoization and lazy loading."
-      }
-    ]
+    "id": 4,
+    "name": "C",
+    "description": "A foundational language in computer science, C is known for its efficiency and control over system resources. It is commonly used in system programming, embedded systems, and applications requiring high performance."
   },
   {
-    "category": "React Native",
-    "name": "Introduction",
-    "description": "React Native enables developers to build cross-platform mobile apps using JavaScript and React.",
-    "tutorials": [
-      {
-        "id": 8,
-        "title": "Setting Up a React Native Project",
-        "content": "Learn the setup process for developing a React Native app."
-      },
-      {
-        "id": 9,
-        "title": "Understanding React Native Components",
-        "content": "Explore the basics of components and styling in React Native."
-      }
-    ]
+    "id": 5,
+    "name": "C++",
+    "description": "An extension of C, C++ offers object-oriented capabilities and is widely used in software that demands high performance, such as games, operating systems, and real-time simulation applications."
   },
   {
-    "category": "C",
-    "name": "Introduction",
-    "description": "C is a low-level programming language known for its efficiency and use in systems programming.",
-    "tutorials": [
-      {
-        "id": 10,
-        "title": "Basic Syntax in C",
-        "content": "Understand the syntax and structure of C programming."
-      }
-    ]
+    "id": 6,
+    "name": "C#",
+    "description": "Developed by Microsoft, C# is a robust language for building applications on the .NET framework, especially suited for Windows applications, enterprise software, and game development with Unity."
   },
   {
-    "category": "C++",
-    "name": "Introduction",
-    "description": "C++ builds on C with additional features like object-oriented programming.",
-    "tutorials": [
-      {
-        "id": 11,
-        "title": "Introduction to C++ and Classes",
-        "content": "Learn about classes and objects, the core of C++ object-oriented programming."
-      }
-    ]
+    "id": 7,
+    "name": "Java",
+    "description": "A widely-used, object-oriented programming language, Java is platform-independent and ideal for developing secure, large-scale applications, including Android apps, web servers, and enterprise solutions."
   },
   {
-    "category": "C++",
-    "name": "Advanced",
-    "description": "Advanced C++ topics for more efficient and powerful programming.",
-    "tutorials": [
-      {
-        "id": 12,
-        "title": "Memory Management in C++",
-        "content": "Deep dive into pointers, dynamic memory allocation, and deallocation."
-      }
-    ]
+    "id": 8,
+    "name": "TypeScript",
+    "description": "A typed superset of JavaScript, TypeScript enhances JavaScript by adding static typing, making code more predictable and maintainable. It’s particularly popular in large codebases and enterprise projects."
   },
   {
-    "category": "C#",
-    "name": "Introduction",
-    "description": "C# is a modern, object-oriented programming language developed by Microsoft.",
-    "tutorials": [
-      {
-        "id": 13,
-        "title": "Getting Started with C#",
-        "content": "An introduction to the basics of C# syntax and programming."
-      },
-      {
-        "id": 14,
-        "title": "Classes and Objects in C#",
-        "content": "Learn about object-oriented programming concepts in C#."
-      }
-    ]
+    "id": 9,
+    "name": "Python",
+    "description": "Known for its readability and ease of use, Python is a versatile programming language popular in data science, web development, automation, and artificial intelligence. Its extensive libraries make it ideal for rapid development."
   },
   {
-    "category": "Java",
-    "name": "Introduction",
-    "description": "Java is a widely-used programming language known for its portability and performance.",
-    "tutorials": [
-      {
-        "id": 15,
-        "title": "Setting Up a Java Development Environment",
-        "content": "Install and configure Java development tools to get started with Java programming."
-      },
-      {
-        "id": 16,
-        "title": "Basic Syntax in Java",
-        "content": "Understand the structure of Java programs, including classes and methods."
-      }
-    ]
-  },
-  {
-    "category": "Java",
-    "name": "Advanced",
-    "description": "Advanced Java topics including multithreading and concurrency.",
-    "tutorials": [
-      {
-        "id": 17,
-        "title": "Java Multithreading",
-        "content": "Explore how to handle multiple threads in Java applications."
-      }
-    ]
-  },
-  {
-    "category": "TypeScript",
-    "name": "Introduction",
-    "description": "TypeScript is a superset of JavaScript that adds static typing to enhance code reliability.",
-    "tutorials": [
-      {
-        "id": 18,
-        "title": "Getting Started with TypeScript",
-        "content": "Set up TypeScript and understand the basics of typed variables and functions."
-      }
-    ]
-  },
-  {
-    "category": "Python",
-    "name": "Introduction",
-    "description": "Python is a versatile programming language with applications in web development, data science, and automation.",
-    "tutorials": [
-      {
-        "id": 19,
-        "title": "Python Basics",
-        "content": "Learn Python syntax, basic data types, and control structures."
-      }
-    ]
-  },
-  {
-    "category": "Python",
-    "name": "Advanced",
-    "description": "Advanced Python topics for data manipulation and web development.",
-    "tutorials": [
-      {
-        "id": 20,
-        "title": "Data Analysis with Pandas",
-        "content": "Use Pandas library to analyze and manipulate data efficiently."
-      },
-      {
-        "id": 21,
-        "title": "Building REST APIs with Flask",
-        "content": "Learn to build RESTful APIs using Flask, a lightweight Python web framework."
-      }
-    ]
-  },
-  {
-    "category": "Django",
-    "name": "Introduction",
-    "description": "Django is a high-level Python framework for rapid web development.",
-    "tutorials": [
-      {
-        "id": 22,
-        "title": "Setting Up a Django Project",
-        "content": "Install Django and create your first project."
-      },
-      {
-        "id": 23,
-        "title": "Understanding Django Models",
-        "content": "Learn how to define database models in Django."
-      }
-    ]
+    "id": 10,
+    "name": "Django",
+    "description": "A high-level Python web framework, Django promotes rapid development and clean design. It includes a range of built-in features for security, scalability, and ease of use, making it a preferred choice for backend development."
   }
 ]
