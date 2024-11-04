@@ -1,0 +1,109 @@
+[
+  {
+    "category": "JavaScript",
+    "name": "Introduction",
+    "description": "JavaScript is a versatile programming language commonly used in web development to create interactive effects within web browsers.",
+    "tutorials": [
+      {
+        "id": 1,
+        "title": "Understanding Variables and Data Types",
+        "content": "Learn the basics of JavaScript variables, including var, let, and const, as well as common data types like strings, numbers, and booleans."
+      },
+      {
+        "id": 2,
+        "title": "JavaScript Functions 101",
+        "content": "An introduction to JavaScript functions, how to declare them, and when to use them in your code."
+      }
+    ]
+  },
+  {
+    "category": "JavaScript",
+    "name": "Advanced",
+    "description": "This section covers advanced JavaScript concepts for seasoned developers.",
+    "tutorials": [
+      {
+        "id": 3,
+        "title": "Asynchronous JavaScript",
+        "content": "Explore asynchronous programming in JavaScript, including callbacks, promises, and async/await."
+      },
+      {
+        "id": 4,
+        "title": "JavaScript Design Patterns",
+        "content": "Learn how to apply design patterns like Singleton, Factory, and Observer to improve code organization and efficiency."
+      },
+      {
+        "id": 5,
+        "title": "Advanced DOM Manipulation",
+        "content": "Dive deep into the Document Object Model (DOM) and learn techniques for manipulating HTML elements efficiently."
+      }
+    ]
+  },
+  {
+    "category": "React",
+    "name": "Introduction",
+    "description": "React is a popular JavaScript library for building user interfaces, especially single-page applications.",
+    "tutorials": [
+      {
+        "id": 6,
+        "title": "Getting Started with React",
+        "content": "A beginner's guide to setting up a React project and understanding the basics of components and JSX."
+      },
+      {
+        "id": 7,
+        "title": "React Component Lifecycle",
+        "content": "An overview of the React component lifecycle and how to use lifecycle methods in class components."
+      }
+    ]
+  },
+  {
+    "category": "React",
+    "name": "Advanced",
+    "description": "Advanced concepts in React, including performance optimization and state management.",
+    "tutorials": [
+      {
+        "id": 8,
+        "title": "State Management with Redux",
+        "content": "Learn how to manage complex state in large React applications using Redux."
+      },
+      {
+        "id": 9,
+        "title": "React Performance Optimization",
+        "content": "Techniques for improving the performance of React applications, including memoization and lazy loading."
+      }
+    ]
+  },
+  {
+    "category": "Python",
+    "name": "Introduction",
+    "description": "Python is a high-level, versatile programming language known for its readability and wide range of applications.",
+    "tutorials": [
+      {
+        "id": 10,
+        "title": "Python Basics",
+        "content": "Get started with Python by learning basic syntax, data types, and control structures."
+      }
+    ]
+  },
+  {
+    "category": "Python",
+    "name": "Advanced",
+    "description": "Advanced Python topics, including object-oriented programming and web development frameworks.",
+    "tutorials": [
+      {
+        "id": 11,
+        "title": "Object-Oriented Programming in Python",
+        "content": "Learn how to use classes and objects to structure your Python code in an object-oriented manner."
+      },
+      {
+        "id": 12,
+        "title": "Building Web Applications with Django",
+        "content": "An introduction to Django, a popular Python web framework for building scalable web applications."
+      },
+      {
+        "id": 13,
+        "title": "Data Analysis with Pandas",
+        "content": "Use the Pandas library to manipulate and analyze data effectively in Python."
+      }
+    ]
+  }
+]
