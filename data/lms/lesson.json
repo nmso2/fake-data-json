@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "category_id": 1,
     "name": "Introduction",
     "description": "JavaScript is a versatile programming language commonly used to add interactivity to websites.",
@@ -17,6 +18,7 @@
     ]
   },
   {
+    "id": 2,
     "category_id": 1,
     "name": "Advanced",
     "description": "This section covers advanced topics in JavaScript for experienced developers.",
@@ -34,6 +36,7 @@
     ]
   },
   {
+    "id": 3,
     "category_id": 2,
     "name": "Introduction",
     "description": "React is a JavaScript library for building user interfaces using reusable components.",
@@ -46,6 +49,7 @@
     ]
   },
   {
+    "id": 4,
     "category_id": 2,
     "name": "Advanced",
     "description": "Advanced React concepts including hooks, context, and performance optimization.",
@@ -63,6 +67,7 @@
     ]
   },
   {
+    "id": 5,
     "category_id": 3,
     "name": "Introduction",
     "description": "React Native enables developers to build cross-platform mobile apps using JavaScript and React.",
@@ -80,6 +85,7 @@
     ]
   },
   {
+    "id": 6,
     "category_id": 4,
     "name": "Introduction",
     "description": "C is a low-level programming language known for its efficiency and use in systems programming.",
@@ -92,6 +98,7 @@
     ]
   },
   {
+    "id": 7,
     "category_id": 5,
     "name": "Introduction",
     "description": "C++ builds on C with additional features like object-oriented programming.",
@@ -104,6 +111,7 @@
     ]
   },
   {
+    "id": 8,
     "category_id": 5,
     "name": "Advanced",
     "description": "Advanced C++ topics for more efficient and powerful programming.",
@@ -116,6 +124,7 @@
     ]
   },
   {
+    "id": 9,
     "category_id": 6,
     "name": "Introduction",
     "description": "C# is a modern, object-oriented programming language developed by Microsoft.",
@@ -133,6 +142,7 @@
     ]
   },
   {
+    "id": 10,
     "category_id": 7,
     "name": "Introduction",
     "description": "Java is a widely-used programming language known for its portability and performance.",
@@ -150,6 +160,7 @@
     ]
   },
   {
+    "id": 11,
     "category_id": 7,
     "name": "Advanced",
     "description": "Advanced Java topics including multithreading and concurrency.",
@@ -162,6 +173,7 @@
     ]
   },
   {
+    "id": 12,
     "category_id": 8,
     "name": "Introduction",
     "description": "TypeScript is a superset of JavaScript that adds static typing to enhance code reliability.",
@@ -174,6 +186,7 @@
     ]
   },
   {
+    "id": 13,
     "category_id": 9,
     "name": "Introduction",
     "description": "Python is a versatile programming language with applications in web development, data science, and automation.",
@@ -186,6 +199,7 @@
     ]
   },
   {
+    "id": 14,
     "category_id": 9,
     "name": "Advanced",
     "description": "Advanced Python topics for data manipulation and web development.",
@@ -203,6 +217,7 @@
     ]
   },
   {
+    "id": 15,
     "category_id": 10,
     "name": "Introduction",
     "description": "Django is a high-level Python framework for rapid web development.",
